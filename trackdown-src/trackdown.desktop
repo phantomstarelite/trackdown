@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TrackDown
+Comment=Download single tracks from Spotify links
+Exec=trackdown
+Icon=trackdown
+Type=Application
+Categories=Audio;Music;
+Terminal=false

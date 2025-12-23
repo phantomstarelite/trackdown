@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Arch build artifacts
+pkg/
+src/
+*.pkg.tar.zst
+
+# Virtual environments
+venv/
+
+# OS
+.DS_Store
