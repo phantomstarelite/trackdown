@@ -6,7 +6,7 @@ system-level application development, packaging, and cross-platform architecture
 The project focuses on **Linux desktop engineering**, **Arch Linux packaging**, and
 **Python GUI development**, with an experimental Android integration using Termux.
 
-## 📁 Final GitHub Repository Structure (IMPORTANT)
+## 📁 Final GitHub Repository Structure
 
 ![alt text](image-2.png)
 
