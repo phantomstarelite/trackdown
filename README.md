@@ -8,7 +8,7 @@ The project focuses on **Linux desktop engineering**, **Arch Linux packaging**, 
 
 ## 📁 Final GitHub Repository Structure (IMPORTANT)
 
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## ✨ Features
 
