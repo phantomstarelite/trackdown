@@ -8,6 +8,8 @@ The project focuses on **Linux desktop engineering**, **Arch Linux packaging**, 
 
 ## 📁 Final GitHub Repository Structure (IMPORTANT)
 
+![alt text](image.png)
+
 ## ✨ Features
 
 - Modern PyQt-based desktop UI
